@@ -2,6 +2,10 @@ safaribooksonline.com
 
 lynda.com
 
+bizlibrary.com
+
+vtc.com
+
 tutorialspoint.com
 
 udemy.com
@@ -35,3 +39,5 @@ stormwind.com
 trainup.com
 
 cbtdirect.com
+
+skillsoft.com
